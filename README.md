@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This project analyzes Netflix movies and TV shows from 1925–2021 using Tableau.  
-The dashboard explores content distribution, ratings, genres, release years, and country production trends while also providing business insights and recommendations for the Vietnamese market. :contentReference[oaicite:0]{index=0}
+The dashboard explores content distribution, ratings, genres, release years, and country production trends while also providing business insights and recommendations for the Vietnamese market.
 <br />
 
 <h2>Tools and Technologies Used</h2>
