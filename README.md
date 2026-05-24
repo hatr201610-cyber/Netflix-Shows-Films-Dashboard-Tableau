@@ -20,7 +20,7 @@ The dashboard explores content distribution, ratings, genres, release years, and
   - Numerical
   - Date/Time
   <br/>
-<img src="https://drive.google.com/file/d/1H3RwZJ8N7VoR8Ux8ptbBUQlXXk8MR9kM/view?usp=share_link" height="80%" width="80%" alt="Finding null"/>
+<img src="https://github.com/hatr201610-cyber/Netflix-Shows-Films-Dashboard-Tableau/blob/e49a0619a2a94714d28e6e9991257f3d6b66ca2d/Null%20Declaration" height="20%" width="20%" alt="Finding null"/>
 <br />
 <br />
 
@@ -78,7 +78,9 @@ Top Genres: <br/>
 - Documentaries
 <br />
 Less common genres include teen TV, classic movies, and TV horror.
-<br />
+ <br/>
+ <br/>
+<img src="https://github.com/hatr201610-cyber/Netflix-Shows-Films-Dashboard-Tableau/blob/e49a0619a2a94714d28e6e9991257f3d6b66ca2d/Final%20Product.png" height="100%" width="100%" alt="Finding null"/>
 <br />
 
 </p>
